@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MarcSchar110191/Space%20Game%20-%20web/_apis/build/status/AblionGE.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/MarcSchar110191/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
